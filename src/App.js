@@ -22,5 +22,5 @@ function App() {
   );
 }
 
-const giphy_secret_key = process.env.REACT_APP_GIPHY_KEY;
+const spotify_secret_key = process.env.REACT_APP_SPOTIFY_SECRET_KEY;
 export default App;
